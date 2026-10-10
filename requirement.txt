@@ -1,0 +1,10 @@
+pandas
+matplotlib
+beautifulsoup4
+requests
+Scrapy
+lxml
+html5lib
+pypdf
+Pillow
+pytesseract
