@@ -1,4 +1,4 @@
-# 🇱🇰 Central Bank of Sri Lanka (CBSL) Web Scraping Project
+# Central Bank of Sri Lanka (CBSL) Web Scraping Project
 
 ## 📌 Project Overview
 
