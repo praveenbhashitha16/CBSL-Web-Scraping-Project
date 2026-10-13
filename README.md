@@ -266,7 +266,7 @@ This project is intended for educational and academic purposes. Data collection 
 
 1. **Dunura Ranaweera**
 2. **Praveen Bhashitha**
-3. **Janith Umayanaga**
+3. **Janith Umayanga**
 4. **Nethmini Padukka**
 
 ## 🔗 GitHub Repository
